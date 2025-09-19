@@ -1,0 +1,5 @@
+{
+  "name": "Vietnamese AI Photoshoot",
+  "description": "An application that transforms a user's photo into a stylized Vietnamese artistic photoshoot using AI. Users can select various styles, lighting, outfits, and poses to generate a unique image.",
+  "requestFramePermissions": []
+}
